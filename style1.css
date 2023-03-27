@@ -26,3 +26,12 @@ main #article-title{
 #date{
     font-size: 12px;
 }
+
+.img-container1{
+    margin-bottom: 0;
+}
+
+.img-container1 img{
+    width: 400px;
+    height: 300px;
+}
