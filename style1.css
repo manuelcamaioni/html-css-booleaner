@@ -50,9 +50,14 @@ ul{
     background-color: yellow;
 }
 
+table{
+    border-collapse: collapse;
+}
+
 thead{
     background:rgb(30, 148, 244);
     color: white;
+
 }
 
 thead th{
