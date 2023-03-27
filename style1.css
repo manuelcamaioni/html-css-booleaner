@@ -39,3 +39,16 @@ main #article-title{
 ul{
     padding-left: 15px;
 }
+
+thead{
+    background:rgb(30, 148, 244);
+    color: white;
+}
+
+thead th{
+    width: 33%;
+}
+
+.lightblue-bg{
+    background-color: aquamarine;
+}
