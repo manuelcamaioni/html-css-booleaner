@@ -50,6 +50,10 @@ ul{
     padding-left: 15px;
 }
 
+.highlight{
+    background-color: yellow;
+}
+
 thead{
     background:rgb(30, 148, 244);
     color: white;
