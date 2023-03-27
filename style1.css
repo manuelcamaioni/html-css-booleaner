@@ -52,3 +52,8 @@ thead th{
 .lightblue-bg{
     background-color: aquamarine;
 }
+
+footer h2{
+    color: gray;
+    font-size: 20px;
+}
