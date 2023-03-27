@@ -4,7 +4,6 @@ header{
     background-color: rgb(30, 148, 244);
     background-size: 40%;
     background-image: url('img/pattern.png');
-    
 }
 
 #logo{
@@ -13,4 +12,9 @@ header{
     position: absolute;
     bottom: 10%;
     left: 0;
+}
+
+main #article-title{
+    width: 80%;
+    margin-bottom: 0;
 }
