@@ -23,7 +23,7 @@ main #article-title{
     color: gray;
 }
 
-#date{
+.small-font{
     font-size: 12px;
 }
 
@@ -35,3 +35,4 @@ main #article-title{
     width: 400px;
     height: 300px;
 }
+
