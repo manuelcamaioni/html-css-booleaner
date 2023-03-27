@@ -18,3 +18,11 @@ main #article-title{
     width: 80%;
     margin-bottom: 0;
 }
+
+.gray-text{
+    color: gray;
+}
+
+#date{
+    font-size: 12px;
+}
