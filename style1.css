@@ -61,7 +61,11 @@ thead{
 }
 
 thead th{
-    width: 33%;
+    text-align: left;
+}
+
+.half-table{
+    width: 50%;
 }
 
 .lightblue-bg{
