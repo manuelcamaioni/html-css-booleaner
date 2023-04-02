@@ -78,25 +78,26 @@ footer h2{
 }
 
 .monitor{
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     background-image: url(img/monitor.jpg);
     background-size: cover;
     background-position: center;
     color: white;
-    font-size: 20px;
+    font-size: 30px;
     padding-top: 5%;
     padding-left: 5%;
+    margin-bottom: 20px;
 }
 
-.grafico{
-    width: 300px;
-    height: 300px;
+.graph{
+    width: 200px;
+    height: 200px;
     background-image: url(img/graph.jpg);
     background-size: cover;
     background-position: center;
     color: white;
-    font-size: 20px;
+    font-size: 30px;
     padding-top: 5%;
     padding-left: 5%;
 }
